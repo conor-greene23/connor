@@ -4,6 +4,9 @@ body {
 h1 {
   color: #FFC300;
 }
-table {
+#nav-table {
   width: 800px;
+}
+#nav-td {
+  width: 200px; text-align:center;
 }
