@@ -4,4 +4,6 @@ body {
 h1 {
   color: #FFC300;
 }
-
+table {
+  width: 800px;
+}
